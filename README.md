@@ -7,7 +7,8 @@
 - Write the data SQLITE database, using queries
 
 ## Image examples
-![Screenshot (149)](https://github.com/user-attachments/assets/3b6114a7-aceb-47b4-9421-02bde3b5df80)
+
+![Screenshot (148)](https://github.com/user-attachments/assets/33a42ef8-c390-4091-bb0d-f2d13e5e1565)
 
 ![Screenshot (149)](https://github.com/user-attachments/assets/17ca77d6-07e3-434d-9af6-898319224a5f)
 
